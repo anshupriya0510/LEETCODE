@@ -1,0 +1,38 @@
+155 min stack
+class MinStack {
+    Stack<Integer> st;
+    Stack<Integer> minstack ;//stack declared
+
+    public MinStack() {
+         st = new Stack<>();
+        minstack = new Stack<>();
+        
+    }
+    
+    public void push(int val) {//val push karge
+        st.push(val);
+
+        if(minstack.size()==0||val<=minstack.peek()){//val minstack ke value se chota hai ya khali hai minstack toh minstack ka val hi push hoga
+            minstack.push(val);
+        }
+        
+    }
+    
+    public void pop() {
+        int removed = st.pop();
+        if(removed==minstack.peek()){//removed eqaul hai minstack mei jo dikh raha toh pop hoga
+            minstack.pop();
+        }
+        
+    }
+    
+    public int top() {//top ke liye peek value return karege
+        return st.peek();
+        
+    }
+    
+    public int getMin() {//min ke liye minstack return karege
+        return minstack.peek();
+        
+    }
+}
