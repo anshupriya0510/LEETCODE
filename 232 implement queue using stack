@@ -17,3 +17,18 @@ class MyQueue {
         }
         
     }
+ public int pop() {
+        return st.pop();
+        
+    }
+    
+    public int peek() {
+        return st.peek();
+        
+    }
+    
+    public boolean empty() {
+        return (st.size()==0);
+        
+    }
+}
