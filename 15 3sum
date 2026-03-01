@@ -32,6 +32,7 @@ class Solution {
                     right--; // Need smaller sum
                 }
             }
+}
         
         
         return result;
