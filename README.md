@@ -16,6 +16,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,9 +40,18 @@ To get command on DSA I solve questions on leetcode.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
