@@ -27,6 +27,7 @@ To get command on DSA I solve questions on leetcode.
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,20 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
