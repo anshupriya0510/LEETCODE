@@ -13,6 +13,7 @@ To get command on DSA I solve questions on leetcode.
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@ To get command on DSA I solve questions on leetcode.
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
@@ -36,6 +38,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +67,7 @@ To get command on DSA I solve questions on leetcode.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -77,4 +81,8 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 <!---LeetCode Topics End-->
