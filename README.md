@@ -112,6 +112,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshupriya0510/LEETCODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshupriya0510/LEETCODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshupriya0510/LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -171,6 +172,7 @@ To get command on DSA I solve questions on leetcode.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshupriya0510/LEETCODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
