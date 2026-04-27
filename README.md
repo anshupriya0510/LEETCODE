@@ -15,6 +15,7 @@ To get command on DSA I solve questions on leetcode.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -82,6 +83,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -143,6 +145,7 @@ To get command on DSA I solve questions on leetcode.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -223,6 +226,7 @@ To get command on DSA I solve questions on leetcode.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Counting
@@ -236,5 +240,6 @@ To get command on DSA I solve questions on leetcode.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
