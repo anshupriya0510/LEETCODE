@@ -20,6 +20,7 @@ To get command on DSA I solve questions on leetcode.
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anshupriya0510/LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -52,6 +53,7 @@ To get command on DSA I solve questions on leetcode.
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anshupriya0510/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -115,6 +117,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
