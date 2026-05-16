@@ -14,6 +14,7 @@ To get command on DSA I solve questions on leetcode.
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -67,6 +68,7 @@ To get command on DSA I solve questions on leetcode.
 | [0033-search-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
