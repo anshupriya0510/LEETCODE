@@ -56,6 +56,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -89,6 +90,7 @@ To get command on DSA I solve questions on leetcode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [1622-fancy-sequence](https://github.com/anshupriya0510/LEETCODE/tree/main/1622-fancy-sequence/) | Hard |
@@ -144,6 +146,7 @@ To get command on DSA I solve questions on leetcode.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0796-rotate-string/) | Easy |
