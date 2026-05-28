@@ -37,6 +37,7 @@ To get command on DSA I solve questions on leetcode.
 | [2906-construct-product-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anshupriya0510/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -161,6 +162,7 @@ To get command on DSA I solve questions on leetcode.
 | [2833-furthest-point-from-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/anshupriya0510/LEETCODE/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshupriya0510/LEETCODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -295,4 +297,8 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anshupriya0510/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3093-longest-common-suffix-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
 <!---LeetCode Topics End-->
