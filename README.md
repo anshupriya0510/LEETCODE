@@ -29,6 +29,7 @@ To get command on DSA I solve questions on leetcode.
 | [1848-minimum-distance-to-the-target-element](https://github.com/anshupriya0510/LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshupriya0510/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2239-find-closest-number-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -178,6 +179,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshupriya0510/LEETCODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -223,6 +225,7 @@ To get command on DSA I solve questions on leetcode.
 | [1340-jump-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
