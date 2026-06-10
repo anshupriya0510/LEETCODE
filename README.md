@@ -103,6 +103,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
