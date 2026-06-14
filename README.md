@@ -165,6 +165,7 @@ To get command on DSA I solve questions on leetcode.
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/anshupriya0510/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -301,6 +302,7 @@ To get command on DSA I solve questions on leetcode.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -335,6 +337,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
