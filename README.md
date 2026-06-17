@@ -192,6 +192,7 @@ To get command on DSA I solve questions on leetcode.
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshupriya0510/LEETCODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3614-process-string-with-special-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/anshupriya0510/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -295,6 +296,7 @@ To get command on DSA I solve questions on leetcode.
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshupriya0510/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
