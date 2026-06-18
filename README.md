@@ -164,6 +164,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/anshupriya0510/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -177,6 +178,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+| [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
