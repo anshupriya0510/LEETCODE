@@ -26,6 +26,7 @@ To get command on DSA I solve questions on leetcode.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/anshupriya0510/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anshupriya0510/LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshupriya0510/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -153,6 +154,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/anshupriya0510/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/anshupriya0510/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
