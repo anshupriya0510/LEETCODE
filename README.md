@@ -54,6 +54,7 @@ To get command on DSA I solve questions on leetcode.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -110,6 +111,7 @@ To get command on DSA I solve questions on leetcode.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anshupriya0510/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -196,6 +198,7 @@ To get command on DSA I solve questions on leetcode.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshupriya0510/LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -228,6 +231,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -238,6 +242,7 @@ To get command on DSA I solve questions on leetcode.
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshupriya0510/LEETCODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -256,6 +261,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/anshupriya0510/LEETCODE/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anshupriya0510/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
@@ -302,6 +308,7 @@ To get command on DSA I solve questions on leetcode.
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshupriya0510/LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -317,6 +324,7 @@ To get command on DSA I solve questions on leetcode.
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/anshupriya0510/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
