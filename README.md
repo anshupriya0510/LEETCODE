@@ -17,6 +17,7 @@ To get command on DSA I solve questions on leetcode.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -164,6 +165,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [1260-shift-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -368,6 +370,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshupriya0510/LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
