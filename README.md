@@ -259,6 +259,7 @@ To get command on DSA I solve questions on leetcode.
 | [3474-lexicographically-smallest-generated-string](https://github.com/anshupriya0510/LEETCODE/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshupriya0510/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -352,6 +353,7 @@ To get command on DSA I solve questions on leetcode.
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/anshupriya0510/LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -489,6 +491,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/anshupriya0510/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
