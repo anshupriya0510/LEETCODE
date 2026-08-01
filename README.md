@@ -14,6 +14,7 @@ To get command on DSA I solve questions on leetcode.
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/anshupriya0510/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -225,6 +226,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/anshupriya0510/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
@@ -349,6 +351,7 @@ To get command on DSA I solve questions on leetcode.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/anshupriya0510/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
