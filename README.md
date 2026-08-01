@@ -13,6 +13,7 @@ To get command on DSA I solve questions on leetcode.
 | [0033-search-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anshupriya0510/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
@@ -382,6 +383,7 @@ To get command on DSA I solve questions on leetcode.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshupriya0510/LEETCODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -437,6 +439,7 @@ To get command on DSA I solve questions on leetcode.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
