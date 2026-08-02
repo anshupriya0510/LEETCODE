@@ -28,6 +28,7 @@ To get command on DSA I solve questions on leetcode.
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/anshupriya0510/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/anshupriya0510/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
@@ -135,6 +136,7 @@ To get command on DSA I solve questions on leetcode.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
+| [0704-binary-search](https://github.com/anshupriya0510/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3161-block-placement-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
