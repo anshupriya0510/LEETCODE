@@ -179,6 +179,7 @@ To get command on DSA I solve questions on leetcode.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshupriya0510/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -421,6 +422,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/anshupriya0510/LEETCODE/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshupriya0510/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
