@@ -36,6 +36,7 @@ To get command on DSA I solve questions on leetcode.
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
@@ -176,6 +177,7 @@ To get command on DSA I solve questions on leetcode.
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/anshupriya0510/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1622-fancy-sequence](https://github.com/anshupriya0510/LEETCODE/tree/main/1622-fancy-sequence/) | Hard |
@@ -233,6 +235,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anshupriya0510/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anshupriya0510/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -418,6 +421,7 @@ To get command on DSA I solve questions on leetcode.
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshupriya0510/LEETCODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
@@ -584,10 +588,12 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -600,5 +606,6 @@ To get command on DSA I solve questions on leetcode.
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
