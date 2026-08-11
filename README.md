@@ -24,6 +24,7 @@ To get command on DSA I solve questions on leetcode.
 | [0136-single-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/anshupriya0510/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
@@ -145,6 +146,7 @@ To get command on DSA I solve questions on leetcode.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
