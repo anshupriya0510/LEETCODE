@@ -70,6 +70,7 @@ To get command on DSA I solve questions on leetcode.
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshupriya0510/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshupriya0510/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -122,6 +123,7 @@ To get command on DSA I solve questions on leetcode.
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshupriya0510/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshupriya0510/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -234,6 +236,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshupriya0510/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
