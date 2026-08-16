@@ -59,6 +59,7 @@ To get command on DSA I solve questions on leetcode.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshupriya0510/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshupriya0510/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -195,6 +196,7 @@ To get command on DSA I solve questions on leetcode.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -341,6 +343,7 @@ To get command on DSA I solve questions on leetcode.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/anshupriya0510/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -524,6 +527,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/anshupriya0510/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -615,15 +619,18 @@ To get command on DSA I solve questions on leetcode.
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +640,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
