@@ -87,6 +87,7 @@ To get command on DSA I solve questions on leetcode.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshupriya0510/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -136,6 +137,7 @@ To get command on DSA I solve questions on leetcode.
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
