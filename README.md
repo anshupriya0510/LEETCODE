@@ -80,6 +80,7 @@ To get command on DSA I solve questions on leetcode.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/anshupriya0510/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -165,6 +166,7 @@ To get command on DSA I solve questions on leetcode.
 | [0540-single-element-in-a-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/anshupriya0510/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -206,6 +208,7 @@ To get command on DSA I solve questions on leetcode.
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -341,6 +344,7 @@ To get command on DSA I solve questions on leetcode.
 | [0136-single-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/anshupriya0510/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshupriya0510/LEETCODE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -568,6 +572,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshupriya0510/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -617,6 +622,7 @@ To get command on DSA I solve questions on leetcode.
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Monotonic Stack
