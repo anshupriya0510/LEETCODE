@@ -204,6 +204,7 @@ To get command on DSA I solve questions on leetcode.
 | [1840-maximum-building-height](https://github.com/anshupriya0510/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -318,6 +319,7 @@ To get command on DSA I solve questions on leetcode.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anshupriya0510/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshupriya0510/LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/anshupriya0510/LEETCODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -358,6 +360,7 @@ To get command on DSA I solve questions on leetcode.
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/anshupriya0510/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -640,6 +643,7 @@ To get command on DSA I solve questions on leetcode.
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
