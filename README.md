@@ -306,6 +306,7 @@ To get command on DSA I solve questions on leetcode.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshupriya0510/LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshupriya0510/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -349,6 +350,7 @@ To get command on DSA I solve questions on leetcode.
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3614-process-string-with-special-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshupriya0510/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Bit Manipulation
@@ -506,6 +508,7 @@ To get command on DSA I solve questions on leetcode.
 | [3546-equal-sum-grid-partition-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
