@@ -63,6 +63,7 @@ To get command on DSA I solve questions on leetcode.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshupriya0510/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshupriya0510/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anshupriya0510/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -374,6 +375,7 @@ To get command on DSA I solve questions on leetcode.
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
