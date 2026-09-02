@@ -120,6 +120,7 @@ To get command on DSA I solve questions on leetcode.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/anshupriya0510/LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshupriya0510/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ To get command on DSA I solve questions on leetcode.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshupriya0510/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
