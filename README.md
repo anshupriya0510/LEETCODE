@@ -323,6 +323,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+| [0115-distinct-subsequences](https://github.com/anshupriya0510/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
@@ -488,6 +489,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/anshupriya0510/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshupriya0510/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
