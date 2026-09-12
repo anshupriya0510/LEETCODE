@@ -91,6 +91,7 @@ To get command on DSA I solve questions on leetcode.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshupriya0510/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -183,6 +184,7 @@ To get command on DSA I solve questions on leetcode.
 | [3161-block-placement-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -481,6 +483,7 @@ To get command on DSA I solve questions on leetcode.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anshupriya0510/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/anshupriya0510/LEETCODE/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -510,6 +513,7 @@ To get command on DSA I solve questions on leetcode.
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anshupriya0510/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/anshupriya0510/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/anshupriya0510/LEETCODE/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
