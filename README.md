@@ -619,6 +619,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -650,6 +651,7 @@ To get command on DSA I solve questions on leetcode.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
