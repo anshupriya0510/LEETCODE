@@ -219,6 +219,7 @@ To get command on DSA I solve questions on leetcode.
 | [1344-angle-between-hands-of-a-clock](https://github.com/anshupriya0510/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/anshupriya0510/LEETCODE/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/anshupriya0510/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1872-stone-game-viii](https://github.com/anshupriya0510/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
@@ -290,6 +291,7 @@ To get command on DSA I solve questions on leetcode.
 | [0560-subarray-sum-equals-k](https://github.com/anshupriya0510/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anshupriya0510/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/anshupriya0510/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
@@ -519,6 +521,7 @@ To get command on DSA I solve questions on leetcode.
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/anshupriya0510/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshupriya0510/LEETCODE/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -693,6 +696,7 @@ To get command on DSA I solve questions on leetcode.
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
