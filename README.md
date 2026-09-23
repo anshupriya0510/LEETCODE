@@ -27,6 +27,7 @@ To get command on DSA I solve questions on leetcode.
 | [0162-find-peak-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/anshupriya0510/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/anshupriya0510/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
@@ -212,6 +213,7 @@ To get command on DSA I solve questions on leetcode.
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0507-perfect-number/) | Easy |
@@ -554,6 +556,7 @@ To get command on DSA I solve questions on leetcode.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/anshupriya0510/LEETCODE/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshupriya0510/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -657,6 +660,7 @@ To get command on DSA I solve questions on leetcode.
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -771,4 +775,16 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/anshupriya0510/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
