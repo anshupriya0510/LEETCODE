@@ -214,6 +214,7 @@ To get command on DSA I solve questions on leetcode.
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0507-perfect-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/anshupriya0510/LEETCODE/tree/main/0836-rectangle-overlap/) | Easy |
