@@ -218,6 +218,7 @@ To get command on DSA I solve questions on leetcode.
 | [0009-palindrome-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/anshupriya0510/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
@@ -698,6 +699,7 @@ To get command on DSA I solve questions on leetcode.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/anshupriya0510/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
