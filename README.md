@@ -59,6 +59,7 @@ To get command on DSA I solve questions on leetcode.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/anshupriya0510/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anshupriya0510/LEETCODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/anshupriya0510/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anshupriya0510/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anshupriya0510/LEETCODE/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -154,6 +155,7 @@ To get command on DSA I solve questions on leetcode.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshupriya0510/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshupriya0510/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -377,6 +379,7 @@ To get command on DSA I solve questions on leetcode.
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshupriya0510/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/anshupriya0510/LEETCODE/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1927-sum-game](https://github.com/anshupriya0510/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/anshupriya0510/LEETCODE/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
