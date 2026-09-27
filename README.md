@@ -217,6 +217,7 @@ To get command on DSA I solve questions on leetcode.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
@@ -674,6 +675,7 @@ To get command on DSA I solve questions on leetcode.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anshupriya0510/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -710,6 +712,7 @@ To get command on DSA I solve questions on leetcode.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/anshupriya0510/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
