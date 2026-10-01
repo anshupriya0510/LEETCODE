@@ -367,6 +367,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0115-distinct-subsequences](https://github.com/anshupriya0510/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -620,6 +621,7 @@ To get command on DSA I solve questions on leetcode.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshupriya0510/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -801,6 +803,7 @@ To get command on DSA I solve questions on leetcode.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
