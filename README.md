@@ -370,6 +370,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anshupriya0510/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/anshupriya0510/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -494,6 +495,7 @@ To get command on DSA I solve questions on leetcode.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/anshupriya0510/LEETCODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -551,6 +553,7 @@ To get command on DSA I solve questions on leetcode.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/anshupriya0510/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshupriya0510/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -807,6 +810,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
