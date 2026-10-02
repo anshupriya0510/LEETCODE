@@ -142,6 +142,7 @@ To get command on DSA I solve questions on leetcode.
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/anshupriya0510/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshupriya0510/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -344,6 +345,7 @@ To get command on DSA I solve questions on leetcode.
 | [0141-linked-list-cycle](https://github.com/anshupriya0510/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshupriya0510/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/anshupriya0510/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
@@ -690,6 +692,7 @@ To get command on DSA I solve questions on leetcode.
 | [0061-rotate-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/anshupriya0510/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/anshupriya0510/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
