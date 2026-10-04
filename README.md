@@ -379,6 +379,7 @@ To get command on DSA I solve questions on leetcode.
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/anshupriya0510/LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshupriya0510/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -435,6 +436,7 @@ To get command on DSA I solve questions on leetcode.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshupriya0510/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/anshupriya0510/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshupriya0510/LEETCODE/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -562,6 +564,7 @@ To get command on DSA I solve questions on leetcode.
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/anshupriya0510/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/anshupriya0510/LEETCODE/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -631,6 +634,7 @@ To get command on DSA I solve questions on leetcode.
 | [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/anshupriya0510/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -815,6 +819,7 @@ To get command on DSA I solve questions on leetcode.
 | [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
