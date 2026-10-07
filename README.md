@@ -368,6 +368,7 @@ To get command on DSA I solve questions on leetcode.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/anshupriya0510/LEETCODE/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/anshupriya0510/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
