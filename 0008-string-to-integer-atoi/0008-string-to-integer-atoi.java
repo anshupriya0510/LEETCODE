@@ -1,32 +1,33 @@
 class Solution {
     public int myAtoi(String s) {
         int i = 0;
+        int n = s.length();
+        while(i<n && s.charAt(i)==' '){
+            i++;
+        }
         int sign = 1;
-        long num = 0;
-
-        while (i < s.length() && s.charAt(i) == ' ') {
+        if(i<n && s.charAt(i)=='-'){
+            sign = -1;
             i++;
         }
-
-        if (i < s.length() && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
-            if (s.charAt(i) == '-') {
-                sign = -1;
-            }
+        else if(i<n && s.charAt(i)=='+'){
             i++;
         }
-
-        while (i < s.length() && Character.isDigit(s.charAt(i))) {
-            num = num * 10 + (s.charAt(i) - '0');
-
-            if (sign * num > Integer.MAX_VALUE) {
+        long result = 0;
+        while(i<n && s.charAt(i)>='0'&&s.charAt(i)<='9'){
+            int digit = s.charAt(i)-'0';
+            result = result*10 + digit;
+            if(result*sign>Integer.MAX_VALUE){
                 return Integer.MAX_VALUE;
             }
-
-            if (sign * num < Integer.MIN_VALUE) {
+            if(result*sign<Integer.MIN_VALUE){
                 return Integer.MIN_VALUE;
             }
             i++;
         }
-        return (int) (sign * num);
+        
+        return (int)(result*sign);
     }
 }
+
+        
