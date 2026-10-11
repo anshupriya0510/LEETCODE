@@ -80,6 +80,7 @@ To get command on DSA I solve questions on leetcode.
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/anshupriya0510/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/anshupriya0510/LEETCODE/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -605,6 +606,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [1291-sequential-digits](https://github.com/anshupriya0510/LEETCODE/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anshupriya0510/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
