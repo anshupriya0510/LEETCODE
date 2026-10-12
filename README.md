@@ -877,4 +877,8 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/anshupriya0510/LEETCODE/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
