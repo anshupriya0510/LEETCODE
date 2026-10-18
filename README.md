@@ -53,6 +53,7 @@ To get command on DSA I solve questions on leetcode.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anshupriya0510/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -255,6 +256,7 @@ To get command on DSA I solve questions on leetcode.
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshupriya0510/LEETCODE/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1622-fancy-sequence](https://github.com/anshupriya0510/LEETCODE/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/anshupriya0510/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
@@ -493,6 +495,7 @@ To get command on DSA I solve questions on leetcode.
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anshupriya0510/LEETCODE/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/anshupriya0510/LEETCODE/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -605,6 +608,7 @@ To get command on DSA I solve questions on leetcode.
 | [1340-jump-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/anshupriya0510/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/anshupriya0510/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/anshupriya0510/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
@@ -686,6 +690,7 @@ To get command on DSA I solve questions on leetcode.
 | [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -772,6 +777,7 @@ To get command on DSA I solve questions on leetcode.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshupriya0510/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Recursion
@@ -788,6 +794,7 @@ To get command on DSA I solve questions on leetcode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -810,6 +817,7 @@ To get command on DSA I solve questions on leetcode.
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshupriya0510/LEETCODE/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -873,6 +881,7 @@ To get command on DSA I solve questions on leetcode.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anshupriya0510/LEETCODE/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -907,4 +916,12 @@ To get command on DSA I solve questions on leetcode.
 | [0182-duplicate-emails](https://github.com/anshupriya0510/LEETCODE/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/anshupriya0510/LEETCODE/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/anshupriya0510/LEETCODE/tree/main/0196-delete-duplicate-emails/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshupriya0510/LEETCODE/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
