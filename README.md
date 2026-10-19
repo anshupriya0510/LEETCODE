@@ -70,6 +70,7 @@ To get command on DSA I solve questions on leetcode.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anshupriya0510/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anshupriya0510/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anshupriya0510/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -213,6 +214,7 @@ To get command on DSA I solve questions on leetcode.
 | [0704-binary-search](https://github.com/anshupriya0510/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshupriya0510/LEETCODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshupriya0510/LEETCODE/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/anshupriya0510/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
@@ -570,6 +572,7 @@ To get command on DSA I solve questions on leetcode.
 | [1833-maximum-ice-cream-bars](https://github.com/anshupriya0510/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/anshupriya0510/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshupriya0510/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshupriya0510/LEETCODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
