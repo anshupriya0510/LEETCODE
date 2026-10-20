@@ -144,6 +144,7 @@ To get command on DSA I solve questions on leetcode.
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshupriya0510/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/anshupriya0510/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -298,6 +299,7 @@ To get command on DSA I solve questions on leetcode.
 | [3871-count-commas-in-range-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/anshupriya0510/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +597,7 @@ To get command on DSA I solve questions on leetcode.
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshupriya0510/LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshupriya0510/LEETCODE/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anshupriya0510/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/anshupriya0510/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -650,6 +653,7 @@ To get command on DSA I solve questions on leetcode.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshupriya0510/LEETCODE/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/anshupriya0510/LEETCODE/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
