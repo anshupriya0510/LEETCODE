@@ -32,6 +32,7 @@ To get command on DSA I solve questions on leetcode.
 | [0268-missing-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshupriya0510/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/anshupriya0510/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/anshupriya0510/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/anshupriya0510/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -159,6 +160,7 @@ To get command on DSA I solve questions on leetcode.
 | [0205-isomorphic-strings](https://github.com/anshupriya0510/LEETCODE/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/anshupriya0510/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshupriya0510/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/anshupriya0510/LEETCODE/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -211,6 +213,7 @@ To get command on DSA I solve questions on leetcode.
 | [0162-find-peak-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/anshupriya0510/LEETCODE/tree/main/0278-first-bad-version/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/anshupriya0510/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/anshupriya0510/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/anshupriya0510/LEETCODE/tree/main/0704-binary-search/) | Easy |
@@ -373,6 +376,7 @@ To get command on DSA I solve questions on leetcode.
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/anshupriya0510/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/anshupriya0510/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/anshupriya0510/LEETCODE/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/anshupriya0510/LEETCODE/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/anshupriya0510/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -565,6 +569,7 @@ To get command on DSA I solve questions on leetcode.
 | [0169-majority-element](https://github.com/anshupriya0510/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/anshupriya0510/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshupriya0510/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/anshupriya0510/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
