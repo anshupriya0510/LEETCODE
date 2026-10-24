@@ -946,6 +946,7 @@ To get command on DSA I solve questions on leetcode.
 | [0184-department-highest-salary](https://github.com/anshupriya0510/LEETCODE/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/anshupriya0510/LEETCODE/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/anshupriya0510/LEETCODE/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/anshupriya0510/LEETCODE/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/anshupriya0510/LEETCODE/tree/main/0511-game-play-analysis-i/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
