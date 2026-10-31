@@ -137,6 +137,7 @@ To get command on DSA I solve questions on leetcode.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshupriya0510/LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/anshupriya0510/LEETCODE/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anshupriya0510/LEETCODE/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -339,6 +340,7 @@ To get command on DSA I solve questions on leetcode.
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshupriya0510/LEETCODE/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anshupriya0510/LEETCODE/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/anshupriya0510/LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3665-twisted-mirror-path-count](https://github.com/anshupriya0510/LEETCODE/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anshupriya0510/LEETCODE/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -663,6 +665,7 @@ To get command on DSA I solve questions on leetcode.
 | [3620-network-recovery-pathways](https://github.com/anshupriya0510/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/anshupriya0510/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/anshupriya0510/LEETCODE/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3665-twisted-mirror-path-count](https://github.com/anshupriya0510/LEETCODE/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anshupriya0510/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
