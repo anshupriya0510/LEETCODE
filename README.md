@@ -89,6 +89,7 @@ To get command on DSA I solve questions on leetcode.
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/anshupriya0510/LEETCODE/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/anshupriya0510/LEETCODE/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2747-count-zero-request-servers](https://github.com/anshupriya0510/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshupriya0510/LEETCODE/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -186,6 +187,7 @@ To get command on DSA I solve questions on leetcode.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anshupriya0510/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshupriya0510/LEETCODE/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/anshupriya0510/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshupriya0510/LEETCODE/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -359,6 +361,7 @@ To get command on DSA I solve questions on leetcode.
 | [1004-max-consecutive-ones-iii](https://github.com/anshupriya0510/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anshupriya0510/LEETCODE/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshupriya0510/LEETCODE/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/anshupriya0510/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshupriya0510/LEETCODE/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anshupriya0510/LEETCODE/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshupriya0510/LEETCODE/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -625,6 +628,7 @@ To get command on DSA I solve questions on leetcode.
 | [2126-destroying-asteroids](https://github.com/anshupriya0510/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshupriya0510/LEETCODE/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/anshupriya0510/LEETCODE/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2747-count-zero-request-servers](https://github.com/anshupriya0510/LEETCODE/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2751-robot-collisions](https://github.com/anshupriya0510/LEETCODE/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/anshupriya0510/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
