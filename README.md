@@ -16,6 +16,7 @@ To get command on DSA I solve questions on leetcode.
 | [0041-first-missing-positive](https://github.com/anshupriya0510/LEETCODE/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/anshupriya0510/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/anshupriya0510/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/anshupriya0510/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/anshupriya0510/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshupriya0510/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -271,6 +272,7 @@ To get command on DSA I solve questions on leetcode.
 | [0013-roman-to-integer](https://github.com/anshupriya0510/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/anshupriya0510/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/anshupriya0510/LEETCODE/tree/main/0050-powx-n/) | Medium |
+| [0066-plus-one](https://github.com/anshupriya0510/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/anshupriya0510/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/anshupriya0510/LEETCODE/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/anshupriya0510/LEETCODE/tree/main/0268-missing-number/) | Easy |
